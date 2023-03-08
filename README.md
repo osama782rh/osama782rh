@@ -6,10 +6,7 @@
   <li> Je travaille actuellement chez Rexel France : Ingénieur DevOps</li>
   <li> Comment me joindre : **osama.rahim@outlook.fr**</li>
   <li> 
-  <ul>
  
-  
-  <li><strong>Emojis:</strong> 🌐</li>
 </ul>
 
 
