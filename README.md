@@ -5,7 +5,7 @@
   <li> 💻 Ingénieur Informatique et Applications, Ingénieur 3D et technologie des médias</li>
   <li> 🏢 Je travaille actuellement chez Rexel France : Ingénieur DevOps</li>
   <li> 📧 Comment me joindre : **osama.rahim@outlook.fr**</li>
-  <li> ⚡ Passionné de continuer à progresser</li>
+  <li> ⚡ Toujours en quête d'amélioration</li>
 </ul>
 <p>Je suis un Ingénieur informatique et DevOps expérimenté avec une passion pour la création de logiciels efficaces et innovants. J'ai acquis une expertise en utilisant un large éventail de technologies en développement informatique, notamment, Java, Python, C++, etc. En outre, je suis très qualifié en DevOps, grâce à mon entreprise qui m'a permis d'acquèrir des compétences. Ayant travaillé avec plusieurs plateformes de gestion de projet DevOps, y compris Azure DevOps. Je suis également expérimenté dans la mise en place de pipelines CI/CD (Continuous Integration/Continuous Deployment) pour assurer des déploiements de code rapides et efficaces. Mon expertise en développement informatique et en DevOps me permet de concevoir et de livrer des solutions logicielles innovantes et de haute qualité pour répondre aux besoins spécifiques de l'entreprise.</p>
 
