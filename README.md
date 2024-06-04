@@ -3,7 +3,7 @@
 <ul>
   <li> 🤝 Je m'appelle <strong>RAHIM Osama</strong></li>
   <li> 💻 Ingénieur Informatique et Applications, Ingénieur 3D et technologie des médias</li>
-  <li> 🏢 Je travaille actuellement chez Rexel France : Ingénieur DevOps</li>
+  <li> 🏢 Je travaille actuellement chez Rexel France : DevOps</li>
   <li> 📧 Comment me joindre : **osama.rahim@outlook.fr**</li>
   <li> ⚡ Toujours en quête d'amélioration</li>
 </ul>
